@@ -1,0 +1,15 @@
+body {
+ 		background-image: url(img/bg.jpg);
+ 		background-repeat: no-repeat;
+ 		width: 100%;
+ 	}
+ 	.image {
+ 		background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+ 		width: 100%;
+ 	}	
+ 		input::-webkit-inner-spin-button {
+       -webkit-appearance: none;
+  	}
+.assign{
+	width: 50%;
+}
